@@ -28,6 +28,9 @@ Research area: "Process Risk Visualisation in Problem Oriented Engineering"
 
 "Data Security and Confidentiality in Information Systems"
 
+
+https://dariuszworks.co.uk/blog/
+
 <!---
 dkaminski-fp/dkaminski-fp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
