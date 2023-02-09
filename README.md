@@ -14,6 +14,9 @@ I strive in a collaborative and a learning culture, with the focus on teamwork, 
 
 ## 👀 Currently, I’m interested in:
 
+### Active development around
+Data analytics, data engineering, domain-specific languages, knowledge management, machine learning, metamodelling, software architecture.
+
 ### Core professional skills
 Software engineering, software architecture, software development process, requirements engineering, data analytics, relational database design and modelling, software automation, model-driven software development, code generation, domain-driven design, software testing, data structures, algorithm design.
 
