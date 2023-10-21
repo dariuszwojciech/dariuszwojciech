@@ -6,33 +6,8 @@ If you wish to find out more, click here:
 [linktr.ee/dariuszwk](https://linktr.ee/dariuszwk)
 
 
+[More about me](https://dariusz.work/posts/dariusz/)
 
-I am an experienced software professional, delivering high quality operational software systems and processes effectively and efficiently.
-Data-driven and goal-oriented, building quality products and processes.
-I strive in a collaborative and a learning culture, with the focus on teamwork, people and their career development.
-
-
-## 👀 Currently, I’m interested in:
-
-### Active development around
-Data analytics, data engineering, domain-specific languages, knowledge management, machine learning, metamodelling, software architecture.
-
-### Core professional skills
-Software engineering, software architecture, software development process, requirements engineering, data analytics, relational database design and modelling, software automation, model-driven software development, code generation, domain-driven design, software testing, data structures, algorithm design.
-
-### Current technical interests
-Data engineering, requirements engineering, data analytics, data mining, process mining, machine learning, information visualisation, problem solving, concurrent systems modelling, systems science, domain-specific languages, complexity science, software evolution, knowledge engineering and management, text analytics, model checking, process optimisation, process simulation, problem solving, concurrent systems, stochastic process modelling.
-
-### Past technical interests
-Analysis and Design, ORM, OOAD, component-based software engineering, modelling business processes, workflows, model checking.
-
-### Past Research Projects
-Research area: "Process Risk Visualisation in Problem Oriented Engineering"
-
-"Data Security and Confidentiality in Information Systems"
-
-
-https://dariuszworks.co.uk/blog/
 
 <!---
 dkaminski-fp/dkaminski-fp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
