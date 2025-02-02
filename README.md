@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Dariusz
 
-I blend the boundaries of creativity and technology, always learning (and unlearning), reflecting on stuff and exploring.
+I blend the boundaries of creativity and technology, always learning, unlearning, re-learning, reflecting on things that intrigue me, and thinking deeply and exploring.
 If you wish to find out more, click here:
 
 [linktr.ee/dariuszwk](https://linktr.ee/dariuszwk)
